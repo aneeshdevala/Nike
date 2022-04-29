@@ -310,6 +310,17 @@ footer{
   justify-content: space-between;
   /* padding-left: 5px; */
 }
+li a:hover{
+  color: #fff;
+  
+}
+.list a:hover{
+  color: #111;
+}
+span:hover{
+  background-color: #757575;
+}
+
 
 .fMenu{
   display: flex; 
